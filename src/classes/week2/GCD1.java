@@ -2,7 +2,7 @@ package classes.week2;
 /**
  * This code example demonstrates a simple GCD (Greater Common Divider) algorithm
  * @author boaz.benmoshe
- *
+ *asd
  */
 public class GCD1 {
 

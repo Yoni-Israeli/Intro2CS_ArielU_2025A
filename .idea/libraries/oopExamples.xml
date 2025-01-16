@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="oopExamples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/classes/week10/oopExamples/Ex2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/classes/week10/oopExamples/Ex2_run.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/classes/week10/oopExamples/Ex2_v0.1-out.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
